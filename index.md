@@ -1,4 +1,5 @@
 ---
-title: Hello World
+title: carmour.net
+author: chris.armour@gmail.com
+layout: home
 ---
-Hello world!
